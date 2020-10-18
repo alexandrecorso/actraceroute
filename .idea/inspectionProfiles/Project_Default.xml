@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="building.models.FurnitureCondition.get_condition_display" />
+          <option value="building.models.Room.get_wall_condition_display" />
+          <option value="building.models.Room.get_ceiling_condition_display" />
+          <option value="building.models.Room.get_floor_condition_display" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
